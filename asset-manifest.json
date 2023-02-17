@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ZianXie/Portfolio.git/static/css/main.eba2d0dc.css",
-    "main.js": "/ZianXie/Portfolio.git/static/js/main.669553d6.js",
-    "static/media/mock5.png": "/ZianXie/Portfolio.git/static/media/mock5.c9b5f54e8517e13fc897.png",
-    "static/media/self.png": "/ZianXie/Portfolio.git/static/media/self.aee462936ba9b2cd418f.png",
-    "static/media/mock2.png": "/ZianXie/Portfolio.git/static/media/mock2.e8ed2c07928dfdc15a79.png",
-    "static/media/mock1.png": "/ZianXie/Portfolio.git/static/media/mock1.e11f6103909e8c52d703.png",
-    "static/media/mock3.png": "/ZianXie/Portfolio.git/static/media/mock3.8624cffbb7ae4e742c4c.png",
-    "static/media/mock4.png": "/ZianXie/Portfolio.git/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
-    "index.html": "/ZianXie/Portfolio.git/index.html",
-    "main.eba2d0dc.css.map": "/ZianXie/Portfolio.git/static/css/main.eba2d0dc.css.map",
-    "main.669553d6.js.map": "/ZianXie/Portfolio.git/static/js/main.669553d6.js.map"
+    "main.css": "/Portfolio/static/css/main.eba2d0dc.css",
+    "main.js": "/Portfolio/static/js/main.296cb059.js",
+    "static/media/mock5.png": "/Portfolio/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/self.png": "/Portfolio/static/media/self.aee462936ba9b2cd418f.png",
+    "static/media/mock2.png": "/Portfolio/static/media/mock2.e8ed2c07928dfdc15a79.png",
+    "static/media/mock1.png": "/Portfolio/static/media/mock1.e11f6103909e8c52d703.png",
+    "static/media/mock3.png": "/Portfolio/static/media/mock3.8624cffbb7ae4e742c4c.png",
+    "static/media/mock4.png": "/Portfolio/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
+    "index.html": "/Portfolio/index.html",
+    "main.eba2d0dc.css.map": "/Portfolio/static/css/main.eba2d0dc.css.map",
+    "main.296cb059.js.map": "/Portfolio/static/js/main.296cb059.js.map"
   },
   "entrypoints": [
     "static/css/main.eba2d0dc.css",
-    "static/js/main.669553d6.js"
+    "static/js/main.296cb059.js"
   ]
 }
